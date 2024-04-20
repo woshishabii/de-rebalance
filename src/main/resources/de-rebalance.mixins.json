@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.broken_cloud.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+      "DeReBalanceMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
